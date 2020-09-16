@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationOdrzavanjePuteva", "WebApplicationOdrzavanjePuteva\WebApplicationOdrzavanjePuteva.csproj", "{6C8FA1E9-108E-4833-A67F-31B6C2873DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Putevi", "Putevi\Putevi.csproj", "{6FA0ECB7-8940-4207-8412-2BC3C4EEF429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8FA1E9-108E-4833-A67F-31B6C2873DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8FA1E9-108E-4833-A67F-31B6C2873DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8FA1E9-108E-4833-A67F-31B6C2873DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8FA1E9-108E-4833-A67F-31B6C2873DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA0ECB7-8940-4207-8412-2BC3C4EEF429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA0ECB7-8940-4207-8412-2BC3C4EEF429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA0ECB7-8940-4207-8412-2BC3C4EEF429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA0ECB7-8940-4207-8412-2BC3C4EEF429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDA591C2-C503-4780-BBC6-00E09652DB32}
+	EndGlobalSection
+EndGlobal
